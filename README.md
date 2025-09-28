@@ -186,11 +186,6 @@ Applied to all list pages (`list_cuisines.html`, `list_categories.html`, `list_f
 
 ## 📋 CSS File Organization
 
-### `css/styles.css` - Main Stylesheet
-- Global styles and CSS reset
-- Typography definitions
-- Color variables and theme
-- Utility classes
 
 ### `css/index.css` - Dashboard Specific
 - Card layout styling
