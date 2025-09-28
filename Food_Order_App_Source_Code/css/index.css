@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    background-color: whitesmoke; /* Warm beige */
+    padding: 15px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 95%;
+}
+body {
+    border: 3px solid black;
+    box-shadow: 2px;
+    background-color: whitesmoke; /* Light beige */
+    margin: 20px;
+    padding: 20px;
+}
+
+
+/* Card Titles */
+.card-title {
+    text-align: center;
+    color: orange;
+    font-size: 22px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin:auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.card {
+    max-width: 700px;
+    border: 2px solid lightgray; 
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 10px auto; /* Center the card */
+}
+
+/* Links */
+.card-body a {
+    max-width: 700px;
+    margin:auto;
+    display: block; /* Makes the link fill the entire width of the card */
+    border-color: whitesmoke;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+    text-decoration: none;  /* Removes underline */
+    color: white;
+    background-color: orange; /* Muted brown */
+    padding: 12px;
+    border-radius: 6px;
+    margin: 8px 0;
+    font-size: 16px;
+    margin-left: auto;  /* Aligns the link to the right */
+    margin-right: auto; /* Aligns the link to the left */
+    text-align: center;
+    
+}
+
+/* Hover Effect */
+.card-body a:hover {
+    background-color: #8b5e3c; /* Darker brown */
+}
