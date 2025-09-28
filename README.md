@@ -30,8 +30,7 @@ food-ordering-admin-css/
 ├── orders.html               # Styled orders management
 ├── users.html                # Styled user management
 ├── css/
-│   ├── styles.css           # Main stylesheet
-│   ├── dashboard.css        # Dashboard-specific styles
+│   ├── index.css            # Dashboard-specific styles
 │   ├── forms.css           # Form styling
 │   └── tables.css          # Table styling
 └── README.md               # Project documentation
